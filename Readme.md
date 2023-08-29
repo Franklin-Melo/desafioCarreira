@@ -2,7 +2,7 @@
 # Simulação Jogo Mega Sena
 
 # Descrição:
-Trata-se de uma simulação da Meag Sena.
+Trata-se de uma simulação da Mega Sena.
 Onde os jogadores fazem apostas e o sistema verifica se eles ganharam, com base nos números sorteados que são gerados automaticamente.
 
 # Ferramestas Utilizadas:
