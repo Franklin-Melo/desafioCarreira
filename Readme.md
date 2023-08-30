@@ -30,3 +30,10 @@ Segue a rota de exemplo: http://localhost:8000/jogos
 Para verificar o resultado será necessário informar a rota Get no Insomnia e o numero de Id que identifica o jogo para saber se foi sorteado.
 
 Segue a rota de exemplo: http://localhost:8000/jogos/0/ganhou
+# Segue exemplo:
+## Aposta:
+<img src="/src/img/insomnia.png">
+
+## Resultado:
+<img src="/src/img/Resultado.png">
+
